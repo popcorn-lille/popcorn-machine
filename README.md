@@ -1,6 +1,6 @@
 # POPCORN-MACHINE 🍿
 
-La machine à Popcorn permet de créer son propre "Popcorn" : un annuaire local de développeurs freelances, tel que celui de [Popcorn Nantes](https://popcorn-nantes.github.io/).
+La machine à Popcorn permet de créer son propre "Popcorn" : un annuaire local de développeurs freelances, tel que celui de [Popcorn Lille](https://popcorn-lille.github.io/).
 
 ## Les objectifs d'un annuaire Popcorn
 
